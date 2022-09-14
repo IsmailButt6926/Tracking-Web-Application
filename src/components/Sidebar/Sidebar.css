@@ -1,0 +1,42 @@
+
+ .sidebar{
+  position:absolute;
+  top:0;
+  background:#284461;
+ }
+  .lines_icon{
+    margin-right: 8px;
+    width:26px;
+    height: 26px;
+  }
+  .fix_side {
+    display:flex;
+    align-items: center;
+  }
+  .list_bar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 11px;
+
+  }
+.text_pix{
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+span:hover{
+  background-color: #808080
+}
+
+
+
+
+
+
+
+
+
+

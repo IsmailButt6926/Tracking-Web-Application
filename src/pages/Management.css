@@ -1,0 +1,165 @@
+.image_box{
+    box-sizing: border-box;
+
+    width: 280px;
+    height: 305px;
+    left: 294px;
+    top: 165px;
+
+    border: 1px solid #D9D9D9;
+    border-radius: 2px;
+}
+.image_set{
+padding: 12px;
+
+}
+.heading_content2{
+    margin-left: 93px;
+    width: 95px;
+    height: 22px;
+    left: 386px;
+    top: 426px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.5px;
+    line-height: 22px;
+
+    text-transform: capitalize;
+
+    color: #000000;
+
+}
+.form_img{
+    display: flex;
+    gap: 70px;
+    margin-top: 40px;
+}
+.input_box{
+    box-sizing: border-box;
+
+    width: 333px;
+    height: 36px;
+   
+    border: 1px solid #D9D9D9;
+    border-radius: 2px;
+}
+.name{
+    margin-top: 10px;
+    width: 81px;
+    height: 22px;
+    left: 631px;
+    top: 226px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    
+    
+    color: #797979;
+}
+.heading{
+    width: 81px;
+height: 22px;
+left: 631px;
+top: 226px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+
+color: #797979;
+
+}
+.id{
+    margin-top: 26px;
+}
+
+.day{
+    margin-top: 26px;
+}
+.city{
+    
+        margin-top: 21px;
+    
+}
+.title{
+    margin-top: 23px;
+}
+.address{
+    margin-top: 26px;
+}
+.gender{
+    margin-top: 22px;
+}
+.notes{
+    margin-top: 24px;
+}
+.input_box2{
+    margin-top: 10px;
+}
+.input_box3{
+    margin-top: 10px;
+}
+.input_box4{
+    margin-top: 10px;
+}
+.input_box5{
+    margin-top: 10px;
+}
+.input_box6{
+    margin-top: 10px;
+}
+.input_box7{
+    margin-top: 10px;
+}
+.text_area{
+    margin-top: 10px;
+    box-sizing: border-box;
+
+    width: 333px;
+    height: 90px;
+  
+    border: 1px solid #D9D9D9;
+    border-radius: 2px;
+
+}
+.add_btn{
+    display: flex;
+    justify-content: end;
+    margin-top: 18px;
+
+}
+.set_btn{
+    width: 119px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    background-color:#475569;
+
+    color: #E2E9F2;
+
+}
+.upload_btn{
+    margin-left: 75px;
+    width: 119px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    background-color:#475569;
+
+    color: #E2E9F2;
+
+}
